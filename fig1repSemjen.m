@@ -4,7 +4,9 @@ clear,clc;
 
 k = 4;
 vm = 25;
-vti = 100;
+vti = 100; 
+
+hellothisisanedit = 420
 
 % Nseq = 100;
 NI = 31;
